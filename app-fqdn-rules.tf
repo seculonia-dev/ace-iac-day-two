@@ -7,6 +7,7 @@ locals {
     }
     udp = {
       "dns.google.com" = "53"
+      "dns.google.com" = "443"
     }
   }
 }
